@@ -11,3 +11,4 @@
 [![](https://visitcount.itsvg.in/api?id=amr12345a&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+(https://tryhackme.com/api/v2/badges/public-profile?userPublicId=118290)
