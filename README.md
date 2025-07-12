@@ -1,6 +1,28 @@
-# 💫 About Me:
-👋 Hey, I'm Amr! 🚀<br><br>Welcome to my corner of GitHub! I'm a passionate software engineer and cybersecurity enthusiast driven by curiosity and a love for building innovative, efficient solutions.<br>🧠 About Me<br><br>    INTP-T personality — a thinker, explorer, and someone who’s always uncovering the why behind the how.<br>    Software Engineer: I specialize in crafting clean, efficient, and scalable code across various domains.<br>    Cybersecurity Enthusiast: Skilled in identifying vulnerabilities, securing systems, and analyzing network traffic.<br>    Continuous Learner: Whether it's mastering a new programming paradigm or enhancing cybersecurity skills, I’m always evolving.<br><br>🌟 My Expertise<br>Software Engineering<br><br>    Programming Languages: Python, JavaScript, Java, C++<br>    Specialties: Automation, backend development, and APIs<br>    GUI Development: Building functional and sleek applications with Tkinter, PyQt, and Kivy<br><br>Trading & FinTech<br><br>    Developing trading bots and strategies for platforms like MetaTrader, TradingView, and Binance<br>    Translating complex Pine Script strategies into Python or MQL<br><br>Cybersecurity<br><br>    Network Scanning & Analysis:<br>        Detecting and analyzing vulnerabilities with Nmap<br>        Packet analysis and troubleshooting using Wireshark<br>    Security Best Practices: Implementing secure systems and safeguarding data integrity<br><br>Bot Development<br><br>    Crafting custom Telegram bots for automation, e-commerce, and integrations<br>    Leveraging APIs to deliver seamless, user-centric solutions<br><br>🛠️ Tech Toolbox<br><br>    Languages & Frameworks: Python, JavaScript, Java, C++<br>    Cybersecurity Tools: Nmap, Wireshark, Burp Suite<br>    Trading Platforms: MetaTrader (MT4/MT5), TradingView, Binance<br>    Libraries & Tools: Selenium, Flask, BeautifulSoup<br><br>🕵️‍♂️ What Drives Me<br><br>    Breaking It Down: Complex problems fuel my creativity—I love dissecting challenges into manageable pieces.<br>    Constant Growth: My mantra: "How can I make this better?"<br>    Impactful Work: Whether securing systems or optimizing workflows, my goal is to create meaningful, lasting solutions.<br><br>🎯 Let’s Collaborate!<br><br>I'm always on the lookout for:<br><br>    Exciting Projects: From software engineering to cybersecurity challenges, I’m in!<br>    Creative Collaborations: Let’s turn ideas into reality.<br>    Open Source Contributions: Giving back to the community that inspires me.
+# 👋 Hi, I'm Amr (amr12345a)
 
+**Software Engineer | API & Automation Specialist | Trading Systems Developer**
+
+---
+
+### 🚀 About Me
+
+I'm a passionate software engineer specializing in cloud server setup, automation, and algorithmic trading systems. I thrive on building robust solutions that integrate APIs, automate repetitive tasks, and enable data-driven decisions.
+
+---
+
+### 🛠️ Skills & Expertise
+
+- **Server Creation & Cloud Integration**: Deploying servers on AWS and DigitalOcean, optimizing for scalability and reliability.
+- **Software Development**: Building reliable programs in Python for diverse applications.
+- **API Development & Integration**: Connecting trading APIs (Interactive Brokers, TradingView) and messaging services (Telegram).
+- **Web Scraping & Data Extraction**: Efficient scraping with BeautifulSoup, Selenium, and Scrapy.
+- **Automation Tools**: Accelerating workflows using Python threading & async programming.
+- **GUI Development**: User-friendly desktop apps with Tkinter, PyQt, and Kivy.
+- **Algorithmic & Math-Based Bot Development**: Creating trading bots using mathematical models and translating Pine Script to Python for MT4/MT5 and TradingView.
+- **Database Management & Data Analytics**: Storing, managing, and analyzing data with SQL/NoSQL.
+- **Version Control**: Collaborative development using Git.
+
+---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amr-elkhamisy) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/10731120) 
